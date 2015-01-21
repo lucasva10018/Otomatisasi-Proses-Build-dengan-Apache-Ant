@@ -1,7 +1,10 @@
 # Software-Quality-Assurance
 
-Judul : Otomatisasi Proses Build dengan Apache Ant
-Pembahasan   :
+Judul : 
+Otomatisasi Proses Build dengan Apache Ant
+
+
+Pembahasan
 
 Petama kali kita perlu melakukan settingan terlebih dahulu pada PATH,menambah JAVA_HOME dan ANT_HOME Menambah  lokasi directory bin dari apache ant pada path, Menambah JAVA_HOME pada siatem variable agar dapat mengesekusi perintah ant.
 
