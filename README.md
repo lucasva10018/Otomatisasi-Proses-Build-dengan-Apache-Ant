@@ -1,7 +1,6 @@
-# Software-Quality-Assurance
 
-Judul : 
-Otomatisasi Proses Build dengan Apache Ant
+#Judul : 
+#Otomatisasi Proses Build dengan Apache Ant
 
 
 Pembahasan
